@@ -168,5 +168,3 @@ public class Calculator implements ActionListener{
 		}
 	}
 }
- 
-
